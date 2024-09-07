@@ -53,6 +53,10 @@ section button {
   cursor: pointer; /* Muda o cursor para indicar que é clicável */
 }
 
+section p{
+  color: #c7ff00;
+}
+
 /* Adiciona efeito hover ao botão de pesquisa */
 section button:hover {
   background-color: #30475e; /* Muda a cor de fundo ao passar o mouse */
